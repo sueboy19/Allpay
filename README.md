@@ -37,7 +37,7 @@ composer install
 ### step 3 : Publish config to your project
 執行下列命令，將package的config檔配置到你的專案中
 ```
-php artisan vendor:publish
+php artisan vendor:publish --provider="ScottChayaa\Allpay\AllpayServiceProvider"
 ```
 
 可至config/allpay.php中查看  
