@@ -11,7 +11,7 @@ composer require scottchayaa/allpay dev-master
   "scottchayaa/allpay": "dev-master"
 },
 ```
-然後更新安裝
+假如沒有成功安，再執行 更新安裝
 ```
 composer update
 ```
